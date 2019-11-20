@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Habilidades"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,22 +15,40 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "react"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "LAMMPS"
+  #description = "90%"
+
+[[feature]]
+  icon = "cloudsmith"
+  icon_pack = "fab"
+  name = "QuantumESPRESSO"
+  #description = "90%"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  #description = "90%"
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Estadística"
-  description = "100%"  
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  #description = "90%"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  #description = "90%"
+
+[[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "Git"
+  #description = "90%"  
   
 
 +++

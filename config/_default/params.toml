@@ -90,11 +90,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Lima", region = "Lima", postcode = "", country = "Perú", country_code = "PE"}
+address = {street = "", city = "", region = "", postcode = "", country = "", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-12.05", longitude = "-77.033333"}
+coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -124,7 +124,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "NagataShigueru"
 
 ############################
 ## Regional Settings
