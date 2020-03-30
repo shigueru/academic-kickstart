@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Experiencia"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Investigador - Colaborador"
+  company = "Universidad Nacional Mayor de San Marcos"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Perú"
+  date_start = "2014-01-01"
+  date_end = "2016-12-31"
   description = """
-  Responsibilities include:
+  Proyectos de investigación con nano partículas funcionalizadas y      nano aleaciones.
   
-  * Analysing
-  * Modelling
-  * Deploying
+  Mis responsibilidades incluyeron:
+  
+  * Analisis de datos
+  * Creación de scripts en python
+  * Simulación en LAMMPS
+  * Redacción de informes
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Tesista - Investigador"
+  company = "Universidad Nacional de Ingeniería"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Perú"
+  date_start = "2017-04-01"
+  date_end = "2019-09-15"
+  description = """
+  Investigación de las propiedades electrónicas de las perovskitas
+  Ferrita de Bismuto y Cromita de Itrio.
+  
+  Mis responsibilidades incluyeron:
+  
+  * Analisis de datos
+  * Creación de scripts en python
+  * Simulación en QuantumESPRESSO
+  * Redacción de informes
+  * Exposiciones en conferencias
+  """
 
 +++

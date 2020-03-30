@@ -1,9 +1,9 @@
 ---
 title: Propiedades térmicas y estructurales de las nanopartículas de Fe, Al y nanoaleaciones de Fe-Al  
-summary: An example of using the in-built project page.
+summary: Se estudian las propiedades de las nanopartículas de hierro, aluminio y su aleación en procesos de calentamiento y enfriamiento.
 tags:
 - Dinánica molecular
-date: "2016-04-27T00:00:00Z"
+date: "2015-01-07"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,11 +13,11 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/NagataShigueru
-url_code: "https://twitter.com/NagataShigueru"
+  url: https://www.linkedin.com/in/shiguerunagata/
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""

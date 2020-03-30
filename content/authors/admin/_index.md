@@ -19,7 +19,7 @@ superuser: true
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: Mis intereses de investigación incluyen inteligencia artificial en los campos de ciencia de materiales y geoestadística, ciencia de materiales computacional.
+bio: Además de mi linea de investigación principal en ciencia de materiales computacional tengo interes en el uso de técnicas de machine learning en los campos de ciencia de materiales y geoestadística.
 
 interests:
 - Inteligencia Artificial
@@ -42,16 +42,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:nagatashigueru@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/NagataShigueru
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/NagataShigueru
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/shigueru
-# Link to a PDF of your resume/CV from the About widget.
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/shiguerunagata/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5488-349X
+#Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
   #icon_pack: ai
@@ -67,6 +73,10 @@ email: ""
 #- Visitors
 ---
 
-Mi experiencia en el área de Ciencia de Materiales Computacional inició en la Universidad Nacional Mayor de San Marcos durante mi pregrado en Física. En este periodo colaboré en varios proyectos de investigación. Trabajé con la técnica de dinámica molecular implementada en el software de simulación LAMMPS estudiando propiedades mecánicas de nanohilos de Cobre, propiedades térmicas y estructurales de nanoparticulas de Hierro-Aluminio y la funcionalización de nanoparticulas magnéticas. Luego de mi pregrado obtuve la beca otorgada por el Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC) para estudiar la maestría en ciencias con mención en física de la Universidad Nacional de Ingeniería. Durante la maestría trabajé con la teoria del funcional de densidad implementada en la suite de simulación QuantumESPRESSO para analizar la estructura electrónica de las perovskitas: Ferrita de Bismuto y Cromita de Itrio. La maestría también me permitió adquirir conocimientos en el manejo y postprocesamiento de grandes volumenes de datos que me permitieron desarrollar un flujo de trabajo optimizado mediante la utilización del sistema de control de versiones Git y el desarrollo de programas en Python.
+Shigueru Nagata es un físico computacional con experiencia en ciencia de materiales. 
 
-Además de mi linea de investigación principal en ciencia de materiales computacional tengo interes en el uso de tecnicas de machine learning.
+Su pasion por la programacion y la simulación de procesos físicos lo han llevado a colaborar en varios proyectos de investigación en el campo de la ciencia de materiales computacional en prestigiosas universidades como la Universidad Nacional de Ingeniería y la Universidad Nacional Mayor de San Marcos, donde ha llevado a cabo simulaciones en los softwares de simulacion LAMMPS Y QuantumESPRESSO, además de desarrollar scripts en python para el post-procesamiento de los datos obtenidos.
+
+Además de mi linea de investigación principal en ciencia de materiales computacional tengo interes en el uso de técnicas de machine learning.
+
+Es Maestro en Ciencias en Física por la Universidad Nacional de Ingeniería.

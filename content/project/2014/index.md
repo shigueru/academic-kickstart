@@ -1,9 +1,9 @@
 ---
 title: Influencia de los defectos preexistentes en las propiedades mecánicas de los nanohilos de cobre  
-summary: An example of using the in-built project page.
+summary: Se estudian las propiedades mecanicas de los nano hilos de cobre bajo tracción mecánica.
 tags:
 - Dinánica molecular
-date: "2016-04-27T00:00:00Z"
+date: "2014-01-07"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/NagataShigueru
+  url: https://www.linkedin.com/in/shiguerunagata/
 url_code: ""
 url_pdf: ""
 url_slides: ""

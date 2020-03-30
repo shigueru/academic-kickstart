@@ -3,7 +3,7 @@ title: Cálculos de estructura electrónica en perovskitas BiFeO3 y YCrO3
 summary: An example of using the in-built project page.
 tags:
 - Teoría del funcional de densidad
-date: "2016-04-27T00:00:00Z"
+date: "2017-04-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/NagataShigueru
+  url: https://www.linkedin.com/in/shiguerunagata/
 url_code: ""
 url_pdf: ""
 url_slides: ""
