@@ -55,4 +55,22 @@ date_format = "Jan 2006"
   * Exposiciones en conferencias
   """
 
+[[experience]]
+  title = "Practicante Pre-profesional"
+  company = "Laboratorio de Física de la Atmósfera y del Océano - Universidad Nacional Mayor de San Marcos"
+  company_url = ""
+  location = "Perú"
+  date_start = "2014-09-25"
+  date_end = "2014-12-20"
+  description = """
+  Entrenamiento en el uso del software ENVI y lenguaje IDL para 
+  el análisis de imágenes satelitales.
+  
+  Mis responsibilidades incluyeron:
+  
+  * Analisis de datos atmosfericos
+  * Creación de scripts en IDL
+  * Redacción de informes
+  """
+
 +++

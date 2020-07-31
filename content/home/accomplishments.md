@@ -2,10 +2,11 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+#title = "Accomplish&shy;ments"
+title= "Logros"
 subtitle = ""
 
 # Date format
@@ -18,34 +19,30 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+# --mi comentario: seccion original con todas las opciones
+#[[item]]
+#  organization = "Coursera"
+#  organization_url = "https://www.coursera.org"
+#  title = "Neural Networks and Deep Learning"
+#  url = ""
+#  certificate_url = "https://www.coursera.org"
+#  date_start = "2018-10-01"
+#  date_end = ""
+#  description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Universidad Peruana Cayetano Heredia"
+  organization_url = "https://www.cayetano.edu.pe"
+  title = "Machine Learning con Python"
+  url = "http://www.posgradoupch.pe/programa/machine-learning-con-python/"
+  date_start = "2020-04-07"
+  date_end = "2020-05-27"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "Instituto Nacional de Estadística e Informática"
+  organization_url = "https://www.inei.gob.pe/enei/"
+  title = "Programación Estadística con R"
+  date_start = "2019-11-16"
+  date_end = "2019-12-08"
 
 +++

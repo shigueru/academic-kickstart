@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:nagatashigueru@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/NagataShigueru
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/NagataShigueru
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -73,10 +73,8 @@ email: ""
 #- Visitors
 ---
 
-Shigueru Nagata es un físico computacional con experiencia en ciencia de materiales. 
+Soy maestro en Ciencias con mención en Física por la Universidad Nacional de Ingeniería. Investigador en ciencia de materiales en el área de métodos computacionales para modelamiento de nanomateriales.
 
-Su pasion por la programacion y la simulación de procesos físicos lo han llevado a colaborar en varios proyectos de investigación en el campo de la ciencia de materiales computacional en prestigiosas universidades como la Universidad Nacional de Ingeniería y la Universidad Nacional Mayor de San Marcos, donde ha llevado a cabo simulaciones en los softwares de simulacion LAMMPS Y QuantumESPRESSO, además de desarrollar scripts en python para el post-procesamiento de los datos obtenidos.
+Mi pasion por la programacion y la simulación de procesos físicos me ha permitido colaborar en varios proyectos de investigación en prestigiosas universidades como la Universidad Nacional de Ingeniería y la Universidad Nacional Mayor de San Marcos. Donde he llevado a cabo simulaciones con los softwares de simulacion LAMMPS Y QuantumESPRESSO.
 
 Además de mi linea de investigación principal en ciencia de materiales computacional tengo interes en el uso de técnicas de machine learning.
-
-Es Maestro en Ciencias en Física por la Universidad Nacional de Ingeniería.
