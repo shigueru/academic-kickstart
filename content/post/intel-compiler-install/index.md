@@ -5,7 +5,7 @@ title: "Instalación de los compiladores de Intel"
 subtitle: "Linux/Ubuntu y derivadas"
 summary: "Instalación de los compiladores de Intel para C++, C y Fortran en su version de cluster en un entorno linux."
 authors: []
-tags: [Intel, Compiler, Linux]
+tags: [Intel, Compiler, Linux, Installation]
 categories: [compilers]
 date: 2020-06-26T22:16:38-05:00
 lastmod: 2020-06-26T22:16:38-05:00
