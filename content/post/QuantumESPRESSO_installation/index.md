@@ -3,7 +3,7 @@
 
 title: "Compilación e instalación de Quantum ESPRESSO con el compilador de Intel"
 subtitle: "GNU/Linux Ubuntu y sus derivadas"
-summary: "Instalación de Quantum ESPRESSO en un entorno linux utilizando el compilador de Intel y tambien desde los repositorios oficiales de software."
+summary: "Instalación de Quantum ESPRESSO en un entorno linux utilizando el compilador de Intel."
 authors: []
 tags: [Linux, Installation, QuantumESPRESSO, "Density Functional Theory"]
 categories: [Software]
