@@ -1,6 +1,6 @@
 ---
 title: Propiedades térmicas y estructurales de las nanopartículas de Fe, Al y nanoaleaciones de Fe-Al  
-summary: Se estudian las propiedades de las nanopartículas de hierro, aluminio y su aleación en procesos de calentamiento y enfriamiento.
+summary:
 tags:
 - Dinánica molecular
 date: "2015-01-07"
@@ -17,8 +17,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/shiguerunagata/
-url_code: ""
-url_pdf: ""
+url_code: "https://doi.org/10.5281/zenodo.4272062"
+url_pdf: "https://doi.org/10.5281/zenodo.4275061"
 url_slides: ""
 url_video: ""
 
@@ -29,5 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-hsjahdsjahdsjahdjshdsj
+Se investiga mediante la simulación atomística con el método de dinámica molecular y potencial de interacción tipo EAM, las propiedades estructurales y térmicas de las nanopartículas monometálicas de aluminio y hierro, así como las nanoaleaciones de configuración core-shell de aluminio-hierro de diferentes tamaños y composiciones durante los procesos de calentamiento y recocido a diferentes temperaturas.

@@ -17,8 +17,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/shiguerunagata/
-url_code: ""
-url_pdf: ""
+url_code: "https://doi.org/10.5281/zenodo.4272084"
+url_pdf: "https://doi.org/10.5281/zenodo.4273255"
 url_slides: ""
 url_video: ""
 
@@ -29,5 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
 Se investigó las variaciones de las propiedades energéticas, magnéticas, estructurales que ocurren en las nanopartículas en base a hierro como resultado del recubrimiento y funcionalización con elementos no metálicos como oxigeno, carbono e hidrogeno, y otros grupos funcionales, con la finalidad de evaluar su posible aplicación en la remoción de metales pesados de medios contaminados. 
