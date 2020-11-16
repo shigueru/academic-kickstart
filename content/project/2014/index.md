@@ -1,6 +1,6 @@
 ---
 title: Influencia de los defectos preexistentes en las propiedades mecánicas de los nanohilos de cobre  
-summary: Se estudian las propiedades mecanicas de los nano hilos de cobre bajo tracción mecánica.
+summary:
 tags:
 - Dinánica molecular
 date: "2014-01-07"
