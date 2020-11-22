@@ -20,38 +20,80 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Investigador - Colaborador"
-  company = "Universidad Nacional Mayor de San Marcos"
-  company_url = ""
+  company = "Facultad de Ciencias Físicas - Universidad Nacional Mayor de San Marcos"
+  company_url = "https://fisica.unmsm.edu.pe/"
   location = "Perú"
   date_start = "2014-01-01"
-  date_end = "2016-12-31"
+  date_end = "2014-12-31"
   description = """
-  Proyectos de investigación con nano partículas funcionalizadas y nanoaleaciones.
+  Proyecto: Influencia de los defectos preexistentes en las propiedades mecánicas de los nanohilos de cobre.
   
   Mis responsibilidades incluyeron:
   
+  * Creación de estructura atómica de nanohilos
+  * Simulación en LAMMPS
   * Analisis de datos
   * Creación de scripts en python
+  * Redacción de informes
+  """
+  
+[[experience]]
+  title = "Investigador - Colaborador"
+  company = "Facultad de Ciencias Físicas - Universidad Nacional Mayor de San Marcos"
+  company_url = "https://fisica.unmsm.edu.pe/"
+  location = "Perú"
+  date_start = "2015-01-01"
+  date_end = "2015-12-31"
+  description = """
+  Proyecto: Propiedades térmicas y estructurales de las nanopartículas de Fe, Al y nanoaleaciones de Fe-Al.
+  
+  Mis responsibilidades incluyeron:
+  
+  * Creación de estructura atómica de nanopartículas
   * Simulación en LAMMPS
+  * Analisis de datos
+  * Creación de scripts en python
+  * Redacción de informes
+  """
+  
+[[experience]]
+  title = "Investigador - Colaborador"
+  company = "Facultad de Ciencias Físicas - Universidad Nacional Mayor de San Marcos"
+  company_url = "https://fisica.unmsm.edu.pe/"
+  location = "Perú"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """
+  Proyecto: Estudio teórico del efecto del recubrimiento y funcionalización de nanopartículas magnéticas y nanosistemas afines mediante dinámica molecular.
+  
+  Mis responsibilidades incluyeron:
+  
+  * Creación de estructura atómica de nanopartículas
+  * Simulación en LAMMPS
+  * Analisis de datos
+  * Creación de scripts en python
   * Redacción de informes
   """
 
 [[experience]]
   title = "Tesista - Investigador"
-  company = "Universidad Nacional de Ingeniería"
-  company_url = ""
+  company = "Facultad de Ciencias - Universidad Nacional de Ingeniería"
+  company_url = "https://fc.uni.edu.pe/fc/"
   location = "Perú"
   date_start = "2017-04-01"
   date_end = "2019-09-15"
   description = """
+  Proyecto: Cálculos de Estructura Electrónica en Perovskitas BiFeO3 y YCrO3
+  
   Investigación de las propiedades electrónicas de las perovskitas
   Ferrita de Bismuto y Cromita de Itrio.
   
   Mis responsibilidades incluyeron:
   
+  * Diseño de experimentos
+  * Simulación en QuantumESPRESSO
   * Analisis de datos
   * Creación de scripts en python
-  * Simulación en QuantumESPRESSO
   * Redacción de informes
   * Exposiciones en conferencias
   """
