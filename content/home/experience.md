@@ -5,6 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
+#title = "Experience"
 title = "Experiencia"
 subtitle = ""
 
@@ -25,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2014-01-01"
   date_end = "2016-12-31"
   description = """
-  Proyectos de investigación con nano partículas funcionalizadas y      nano aleaciones.
+  Proyectos de investigación con nano partículas funcionalizadas y nanoaleaciones.
   
   Mis responsibilidades incluyeron:
   

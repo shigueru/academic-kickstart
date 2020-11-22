@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2  
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -54,14 +54,14 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-    #      color = "navy"
+  # color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "background.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
