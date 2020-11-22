@@ -12,6 +12,16 @@ lastmod: 2020-06-26T22:16:38-05:00
 featured: false
 draft: false
 
+links:
+- icon: medium
+  icon_pack: fab
+  name: Originalmente publicado en Medium
+  url: https://medium.com/@nagatashigueru/instalaci%C3%B3n-de-los-compiladores-de-intel-64dfeefd7386
+- icon: linkedin
+  icon_pack: fab
+  name: Originalmente publicado en Linkedin
+  url: https://www.linkedin.com/pulse/instalaci%C3%B3n-de-los-compiladores-intel-shigueru-emilio-nagata-tejada?articleId=6695466729033740288#comments-6695466729033740288&trk=public_profile_article_view
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -28,8 +38,4 @@ image:
 projects: []
 ---
 
-Puedes hallar el post completo en las siguientes plataformas. Según sea tu preferencia.
-
-Linkedin: [Enlace](https://www.linkedin.com/pulse/instalaci%C3%B3n-de-los-compiladores-intel-shigueru-emilio-nagata-tejada?articleId=6695466729033740288#comments-6695466729033740288&trk=public_profile_article_view)
-
-Medium: [Enlace](https://medium.com/@nagatashigueru/instalaci%C3%B3n-de-los-compiladores-de-intel-64dfeefd7386)
+Este post se encuentra publicado en Linkedin y en Medium. Los enlaces se encuentran en los botones de arriba.

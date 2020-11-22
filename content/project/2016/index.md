@@ -13,12 +13,16 @@ image:
   focal_point: Smart
 
 links:
-- icon: linkedin
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/shiguerunagata/
-url_code: "https://doi.org/10.5281/zenodo.4272084"
-url_pdf: "https://doi.org/10.5281/zenodo.4273255"
+- icon: file-pdf
+  icon_pack: fas
+  name: Poster
+  url: https://doi.org/10.5281/zenodo.4273255
+- icon: code
+  icon_pack: fas
+  name: Scripts
+  url: https://doi.org/10.5281/zenodo.4272084
+url_code: ""
+url_pdf: ""
 url_slides: ""
 url_video: ""
 

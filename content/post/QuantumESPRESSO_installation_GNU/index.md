@@ -12,6 +12,16 @@ lastmod: 2020-09-01T22:03:57-05:00
 featured: false
 draft: false
 
+links:
+- icon: medium
+  icon_pack: fab
+  name: Originalmente publicado en Medium
+  url: https://medium.com/@nagatashigueru/compilaci%C3%B3n-e-instalaci%C3%B3n-de-quantum-espresso-con-el-compilador-de-gnu-31c3eeebaf2a
+- icon: linkedin
+  icon_pack: fab
+  name: Originalmente publicado en Linkedin
+  url: https://www.linkedin.com/pulse/compilaci%C3%B3n-e-instalaci%C3%B3n-de-quantum-espresso-con-el-nagata-tejada-1f?articleId=6706776692641275904#comments-6706776692641275904&trk=public_profile_article_view
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -28,8 +38,4 @@ image:
 projects: []
 ---
 
-Puedes hallar el post completo en las siguientes plataformas. Según sea tu preferencia.
-
-Linkedin: [Enlace](https://www.linkedin.com/pulse/compilaci%C3%B3n-e-instalaci%C3%B3n-de-quantum-espresso-con-el-nagata-tejada-1f?articleId=6706776692641275904#comments-6706776692641275904&trk=public_profile_article_view)
-
-Medium: [Enlace](https://medium.com/@nagatashigueru/compilaci%C3%B3n-e-instalaci%C3%B3n-de-quantum-espresso-con-el-compilador-de-gnu-31c3eeebaf2a)
+Este post se encuentra publicado en Linkedin y en Medium. Los enlaces se encuentran en los botones de arriba.

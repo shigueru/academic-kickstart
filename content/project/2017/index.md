@@ -13,13 +13,21 @@ image:
   focal_point: Smart
 
 links:
-- icon: linkedin
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/shiguerunagata/
+- icon: file-pdf
+  icon_pack: fas
+  name: Tesis
+  url: https://doi.org/10.5281/zenodo.4271101
+- icon: file-pdf
+  icon_pack: fas
+  name: Diapositivas
+  url: https://doi.org/10.5281/zenodo.4273182
+- icon: file-pdf
+  icon_pack: fas
+  name: Poster
+  url: https://doi.org/10.5281/zenodo.4274410
 url_code: ""
-url_pdf: "https://doi.org/10.5281/zenodo.4271101"
-url_slides: "https://doi.org/10.5281/zenodo.4273182"
+url_pdf: ""
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
