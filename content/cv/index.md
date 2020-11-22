@@ -7,6 +7,35 @@ comments: false  # Show comments?
 ---
 **Maestro en Ciencias con mención en Física**. Con experiencia en el uso de softwares de simulación Quantum ESPRESSO  y LAMMPS. Aplicación del lenguaje de programación Python para pre y post-procesamiento de datos.
 
+## FORMACIÓN ACADÉMICA
+
+- **MAESTRO EN CIENCIAS - UNIVERSIDAD NACIONAL DE INGENIERÍA - 2017~2019**\
+  Grado de Maestro en Ciencias con mención en Física
+- **BACHILLER - UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS - 2009~2015**\
+  Bachiller en Física
+  
+## FORMACIÓN EN SOFTWARE
+
+- **PROGRAMACIÓN ESTADÍSTICA CON R - ESCUELA NACIONAL DE ESTADÍSTICA E INFORMÁTICA - NOVIEMBRE DE 2019 ~ DICIEMBRE DE 2019**
+- **MACHINE LEARNING CON PYTHON - UNIVERSIDAD PERUANA CAYETANO HEREDIA - ESCUELA DE POSGRADO - ABRIL DE 2020 ~ MAYO DE 2020**
+  
+## PROYECTOS DE INVESTIGACIÓN
+
+- **TESISTA - TESIS DE MAESTRIA - 2017~2019**\
+  **Tema:** [Cálculos de estructura electrónica en perovskitas BiFeO3 y YCrO3](https://doi.org/10.5281/zenodo.4271101).
+- **INVESTIGADOR COLABORADOR - 2016**\
+  **Tema:** Estudio teórico del efecto del recubrimiento y funcionalización de nanopartículas magnéticas y nanosistemas afines mediante dinámica molecular.
+- **INVESTIGADOR COLABORADOR - 2015**\
+  **Tema:** Propiedades térmicas y estructurales de las nanopartículas de Fe, Al y nanoaleaciones de Fe-Al.
+- **INVESTIGADOR COLABORADOR - 2014**\
+  **Tema:** Influencia de los defectos preexistentes en las propiedades mecánicas de los nanohilos de cobre.
+  
+## DISTINCIONES
+
+- Tesis de Maestría aprobada con distinción.
+- Obtuve la beca para estudios de posgrado otorgada por el "Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica - FONDECYT".
+- Quinto Superior en la Carrera Profesional de Física - Universidad Nacional Mayor de San Marcos.
+
 ## PRESENTACIONES EN SIMPOSIOS
 
 - **EXPOSITOR - XXVII SIMPOSIO PERUANO DE FÍSICA - OCTUBRE 2018**\
@@ -22,29 +51,6 @@ comments: false  # Show comments?
   **Tema:** [Transición de fase en nanoaleaciones de Hierro-Aluminio con estructura core-shell: Estudio con dinámica molecular](https://doi.org/10.5281/zenodo.4275061).\
   **Modalidad:** Poster
   
-## PROYECTOS DE INVESTIGACIÓN
-
-- **TESISTA - TESIS DE MAESTRIA - 2017~2019**\
-  **Tema:** [Cálculos de estructura electrónica en perovskitas BiFeO3 y YCrO3](https://doi.org/10.5281/zenodo.4271101).
-- **INVESTIGADOR COLABORADOR - 2016**\
-  **Tema:** Estudio teórico del efecto del recubrimiento y funcionalización de nanopartículas magnéticas y nanosistemas afines mediante dinámica molecular.
-- **INVESTIGADOR COLABORADOR - 2015**\
-  **Tema:** Propiedades térmicas y estructurales de las nanopartículas de Fe, Al y nanoaleaciones de Fe-Al.
-- **INVESTIGADOR COLABORADOR - 2014**\
-  **Tema:** Influencia de los defectos preexistentes en las propiedades mecánicas de los nanohilos de cobre.
-  
-## FORMACIÓN ACADÉMICA
-
-- **MAESTRO EN CIENCIAS - UNIVERSIDAD NACIONAL DE INGENIERÍA - 2017~2019**\
-  Grado de Maestro en Ciencias con mención en Física
-- **BACHILLER - UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS - 2009~2015**\
-  Bachiller en Física
-
-## FORMACIÓN EN SOFTWARE
-
-- **PROGRAMACIÓN ESTADÍSTICA CON R - ESCUELA NACIONAL DE ESTADÍSTICA E INFORMÁTICA - NOVIEMBRE DE 2019 ~ DICIEMBRE DE 2019**
-- **MACHINE LEARNING CON PYTHON - UNIVERSIDAD PERUANA CAYETANO HEREDIA - ESCUELA DE POSGRADO - ABRIL DE 2020 ~ MAYO DE 2020**
-
 ## CONOCIMIENTO DE SOFTWARE
 
 - **Lenguajes de Programación**\
@@ -62,9 +68,3 @@ comments: false  # Show comments?
   Dominio Técnica
 - **IDIOMA ESPAÑOL**\
   Lengua Natal
-  
-## DISTINCIONES
-
-- Tesis de Maestría aprobada con distinción.
-- Obtuve la beca para estudios de posgrado otorgada por el "Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica - FONDECYT".
-- Quinto Superior en la Carrera Profesional de Física - Universidad Nacional Mayor de San Marcos.
