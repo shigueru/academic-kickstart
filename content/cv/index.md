@@ -53,14 +53,22 @@ comments: false  # Show comments?
   
 ## CONOCIMIENTO DE SOFTWARE
 
-- **Lenguajes de Programación**\
-  Python, Fortran, R
-- **Software Científicos**\
-  Quantum ESPRESSO, LAMMPS, Ovito, Vesta, XCrySDen
-- **Procesadores de texto avanzado**\
-  Latex
-- **Sistemas Operativos**\
-  Ubuntu, Debian, Fedora, openSUSE
+- **Lenguajes de Programación**
+  * Python {{< icon name="python" pack="fab" >}}
+  * R {{< icon name="r-project" pack="fab" >}}
+  * Fortran
+- **Software Científicos**
+  * Quantum ESPRESSO
+  * LAMMPS
+  * Ovito
+  * Vesta
+  * XCrySDen
+- **Procesadores de texto avanzado**
+  * Latex
+- **Sistemas Operativos**
+  * Ubuntu {{< icon name="ubuntu" pack="fab" >}}
+  * Fedora {{< icon name="fedora" pack="fab" >}}
+  * openSUSE {{< icon name="suse" pack="fab" >}}
 
 ## CONOCIMIENTO DE IDIOMAS
 
