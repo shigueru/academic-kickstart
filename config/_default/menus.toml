@@ -26,7 +26,7 @@
 [[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
@@ -37,3 +37,8 @@
 #    name = "CV"
 #    url = "media/cv.pdf"
 #    weight = 70
+
+ [[main]]
+     name = "MS & ML"
+     url = "ms_ml/"
+     weight = 70

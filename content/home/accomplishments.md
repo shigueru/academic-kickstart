@@ -20,13 +20,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Saturdays.AI"
+  organization_url = "https://www.saturdays.ai/"
+  title = "Explaining Machine Learning Models"
+  url = ""
+  date_start = "2020-10-28"
+  date_end = "2020-11-18"
+  
+[[item]]
   organization = "Universidad Peruana Cayetano Heredia"
   organization_url = "https://www.cayetano.edu.pe"
   title = "Machine Learning con Python"
   url = "http://www.posgradoupch.pe/programa/machine-learning-con-python/"
   date_start = "2020-04-07"
   date_end = "2020-05-27"
-  
+
 [[item]]
   organization = "Instituto Nacional de Estadística e Informática"
   organization_url = "https://www.inei.gob.pe/enei/"
