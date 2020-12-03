@@ -23,6 +23,8 @@ Corrected proofs are Articles in Press that contain the authors' corrections. Fi
 **Authors:** Rongzhi Dong, Yabo Dan, Xiang Li, Jianjun Hu
 * [ClasSOMfier: A neural network for cluster analysis and detection of lattice defects](https://doi.org/10.1016/j.commatsci.2020.110167)\
 **Authors:** Javier F. Troncoso
+* [Crystal structure classification in ABO3 perovskites via machine learning](https://doi.org/10.1016/j.commatsci.2020.110191)\
+**Author:** Santosh Behara, Taher Poonawala, Tiju Thomas
 
 ### January 2021
 
