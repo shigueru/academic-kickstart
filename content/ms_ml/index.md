@@ -13,10 +13,6 @@ This is a list of research articles on materials science and machine learning. I
 
 Corrected proofs are Articles in Press that contain the authors' corrections. Final citation details (e.g., volume and/or issue number, publication year, and page numbers) still need to be added and the text might change before final publication.
 
-* [Rapid generation of optimal generalized Monkhorst-Pack grids](https://doi.org/10.1016/j.commatsci.2020.110100)\
-**Authors:** Yunzhe Wang, Pandu Wisesa, Adarsh Balasubramanian, Shyam Dwaraknath, Tim Mueller
-* [Automated ReaxFF parametrization using machine learning](https://doi.org/10.1016/j.commatsci.2020.110107)\
-**Authors:** Chaitanya M. Daksha, Jejoon Yeon, Sanjib C. Chowdhury, John W. Gillespie Jr.
 * [A machine learning framework for the temporal evolution of microstructure during static recrystallization of polycrystalline materials simulated by cellular automaton](https://doi.org/10.1016/j.commatsci.2020.110132)\
 **Authors:** Sepideh Hashemi, Surya R. Kalidindi
 * [Inverse design of composite metal oxide optical materials based on deep transfer learning and global optimization](https://doi.org/10.1016/j.commatsci.2020.110166)\
@@ -25,6 +21,17 @@ Corrected proofs are Articles in Press that contain the authors' corrections. Fi
 **Authors:** Javier F. Troncoso
 * [Crystal structure classification in ABO3 perovskites via machine learning](https://doi.org/10.1016/j.commatsci.2020.110191)\
 **Author:** Santosh Behara, Taher Poonawala, Tiju Thomas
+* [Extraction of material properties through multi-fidelity deep learning from molecular dynamics simulation](https://doi.org/10.1016/j.commatsci.2020.110187)\
+**Author:** Mahmudul Islam, Md Shajedul Hoque Thakur, Satyajit Mojumder, Mohammad Nasim Hasan
+
+### Febrary 2021
+
+* [Automated ReaxFF parametrization using machine learning](https://doi.org/10.1016/j.commatsci.2020.110107)\
+**Authors:** Chaitanya M. Daksha, Jejoon Yeon, Sanjib C. Chowdhury, John W. Gillespie Jr.
+* [A DFT accurate machine learning description of molten ZnCl2 and its mixtures: 2. Potential development and properties prediction of ZnCl2-NaCl-KCl ternary salt for CSP](https://doi.org/10.1016/j.commatsci.2020.110055)\
+**Author:** Gechuanqi Pan, Jing Ding, Yunfei Du, Duu-Jong Lee, Yutong Lu
+* [Rapid generation of optimal generalized Monkhorst-Pack grids](https://doi.org/10.1016/j.commatsci.2020.110100)\
+**Authors:** Yunzhe Wang, Pandu Wisesa, Adarsh Balasubramanian, Shyam Dwaraknath, Tim Mueller
 
 ### January 2021
 
