@@ -32,6 +32,7 @@ comments: false  # Show comments?
   
 ## DISTINCIONES
 
+- Medalla de bronce en el concurso de videos de divulgación en nanociencias dentro de **Nanoandes Perú 2020**
 - Tesis de Maestría aprobada con distinción.
 - Obtuve la beca para estudios de posgrado otorgada por el "Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica - FONDECYT".
 - Quinto Superior en la Carrera Profesional de Física - Universidad Nacional Mayor de San Marcos.
