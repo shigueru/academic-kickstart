@@ -13,6 +13,10 @@ featured: false
 draft: false
 
 links:
+- icon: zenodo
+  icon_pack: ai
+  name: Versión en PDF en Zenodo
+  url: https://doi.org/10.5281/zenodo.4301336
 - icon: medium
   icon_pack: fab
   name: Originalmente publicado en Medium
