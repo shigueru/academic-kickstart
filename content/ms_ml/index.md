@@ -7,25 +7,53 @@ comments: false  # Show comments?
 ---
 ## Description
 
-This is a list of research articles on materials science and machine learning. I found the articles interesting. Each name is a link to the journal where the article is located.
+This is a list of research articles on materials science and/or machine learning. I found the articles interesting. Each name is a link to the journal where the article is located.
 
 ### corrected proofs:
 
 Corrected proofs are Articles in Press that contain the authors' corrections. Final citation details (e.g., volume and/or issue number, publication year, and page numbers) still need to be added and the text might change before final publication.
 
-* [A machine learning framework for the temporal evolution of microstructure during static recrystallization of polycrystalline materials simulated by cellular automaton](https://doi.org/10.1016/j.commatsci.2020.110132)\
-**Authors:** Sepideh Hashemi, Surya R. Kalidindi
-* [Inverse design of composite metal oxide optical materials based on deep transfer learning and global optimization](https://doi.org/10.1016/j.commatsci.2020.110166)\
-**Authors:** Rongzhi Dong, Yabo Dan, Xiang Li, Jianjun Hu
-* [ClasSOMfier: A neural network for cluster analysis and detection of lattice defects](https://doi.org/10.1016/j.commatsci.2020.110167)\
-**Authors:** Javier F. Troncoso
-* [Crystal structure classification in ABO3 perovskites via machine learning](https://doi.org/10.1016/j.commatsci.2020.110191)\
-**Author:** Santosh Behara, Taher Poonawala, Tiju Thomas
-* [Extraction of material properties through multi-fidelity deep learning from molecular dynamics simulation](https://doi.org/10.1016/j.commatsci.2020.110187)\
-**Author:** Mahmudul Islam, Md Shajedul Hoque Thakur, Satyajit Mojumder, Mohammad Nasim Hasan
+* [Problem-fluent models for complex decision-making in autonomous materials research](https://doi.org/10.1016/j.commatsci.2021.110385)\
+**Author:** Soojung Baek, Kristofer G. Reyes
+* [Graph-based deep learning frameworks for molecules and solid-state materials](https://doi.org/10.1016/j.commatsci.2021.110332)\
+**Author:** Weiyi Gong, Qimin Yan
+
+### April 2021
+
+* [Identifying key parameters for predicting materials with low defect generation efficiency by machine learning](https://doi.org/10.1016/j.commatsci.2021.110306)\
+**Author:** Dongyuan Ni, Wei Wu, Yaguang Guo, Sheng Gong, Qian Wang
+* [Machine learning-based accelerated property prediction of two-phase materials using microstructural descriptors and finite element analysis](https://doi.org/10.1016/j.commatsci.2021.110328)\
+**Author:** Emily Ford, Kailasnath Maneparambil, Subramaniam Rajan, Narayanan Neithalath
+* [Transfer learning for materials informatics using crystal graph convolutional neural network](https://doi.org/10.1016/j.commatsci.2021.110314)\
+**Author:** Joohwi Lee, Ryoji Asahi
+* [A novel method of determining interatomic potential for Al and Al-Li alloys and studying strength of Al-Al3Li interphase using evolutionary algorithms](https://doi.org/10.1016/j.commatsci.2020.110258)\
+**Author:** Swagata Roy, Amlan Dutta, NirupamC hakraborti
+
+### March 2021
+
+* [A new criterion for predicting the glass-forming ability of alloys based on machine learning](https://doi.org/10.1016/j.commatsci.2020.110259)\
+**Author:** Baiyu Ren, Zhilin Long, Ruijie Deng
 
 ### Febrary 2021
 
+* [AiiDAlab – an ecosystem for developing, executing, and sharing scientific workflows](https://doi.org/10.1016/j.commatsci.2020.110165)\
+**Author:** Aliaksandr V.Yakutovich et al.
+* [Deep learning model for predicting phase diagrams of block copolymers](https://doi.org/10.1016/j.commatsci.2020.110224)\
+**Author:** Takeshi Aoyagi
+* [Artificial neural network potential for pure zinc](https://doi.org/10.1016/j.commatsci.2020.110207)\
+**Author:** Mashroor S. Nitol, Doyl E. Dickel, Christopher D. Barrett
+* [Machine learning potentials for tobermorite minerals](https://doi.org/10.1016/j.commatsci.2020.110173)\
+**Author:** Keita Kobayashi, Hiroki Nakamura, Akiko Yamaguchi, Mitsuhiro Itakura, Masahiko Machida, Masahiko Okumura
+* [Extraction of material properties through multi-fidelity deep learning from molecular dynamics simulation](https://doi.org/10.1016/j.commatsci.2020.110187)\
+**Author:** Mahmudul Islam, Md Shajedul Hoque Thakur, Satyajit Mojumder, Mohammad Nasim Hasan
+* [Crystal structure classification in ABO3 perovskites via machine learning](https://doi.org/10.1016/j.commatsci.2020.110191)\
+**Author:** Santosh Behara, Taher Poonawala, Tiju Thomas
+* [ClasSOMfier: A neural network for cluster analysis and detection of lattice defects](https://doi.org/10.1016/j.commatsci.2020.110167)\
+**Authors:** Javier F. Troncoso
+* [Inverse design of composite metal oxide optical materials based on deep transfer learning and global optimization](https://doi.org/10.1016/j.commatsci.2020.110166)\
+**Authors:** Rongzhi Dong, Yabo Dan, Xiang Li, Jianjun Hu
+* [A machine learning framework for the temporal evolution of microstructure during static recrystallization of polycrystalline materials simulated by cellular automaton](https://doi.org/10.1016/j.commatsci.2020.110132)\
+**Authors:** Sepideh Hashemi, Surya R. Kalidindi
 * [Automated ReaxFF parametrization using machine learning](https://doi.org/10.1016/j.commatsci.2020.110107)\
 **Authors:** Chaitanya M. Daksha, Jejoon Yeon, Sanjib C. Chowdhury, John W. Gillespie Jr.
 * [A DFT accurate machine learning description of molten ZnCl2 and its mixtures: 2. Potential development and properties prediction of ZnCl2-NaCl-KCl ternary salt for CSP](https://doi.org/10.1016/j.commatsci.2020.110055)\
