@@ -17,6 +17,19 @@ Corrected proofs are Articles in Press that contain the authors' corrections. Fi
 **Author:** Soojung Baek, Kristofer G. Reyes
 * [Graph-based deep learning frameworks for molecules and solid-state materials](https://doi.org/10.1016/j.commatsci.2021.110332)\
 **Author:** Weiyi Gong, Qimin Yan
+* [Adsorption behavior of metal-organic frameworks: From single simulation, high-throughput computational screening to machine learning](https://doi.org/10.1016/j.commatsci.2021.110383)\
+**Author:** Yaling Yan, Lulu Zhang, Shuhua Li, Hong Liang, Zhiwei Qiao
+* [Predictive descriptors in machine learning and data-enabled explorations of high-entropy alloys](https://doi.org/10.1016/j.commatsci.2021.110381)\
+**Author:** Ankit Roy, Ganesh Balasubramanian
+
+### May 2021
+
+* [An approach based on random sampling and density functional theory to identify highly stable structures of ABX3 compounds](https://doi.org/10.1016/j.commatsci.2021.110304)\
+**Author:** Saad M. Alqahtani, Abduljabar Q. Alsayoud, Fahhad H. Alharbi
+* [Machine learning prediction of glass-forming ability in bulk metallic glasses](https://doi.org/10.1016/j.commatsci.2021.110362)\
+**Author:** Jie Xiong, San-Qiang Shi, Tong-Yi Zhang
+* [MatScIE: An automated tool for the generation of databases of methods and parameters used in the computational materials science literature](https://doi.org/10.1016/j.commatsci.2021.110325)\
+**Author:** Souradip Guha, Et al
 
 ### April 2021
 
