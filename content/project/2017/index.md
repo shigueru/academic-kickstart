@@ -15,7 +15,11 @@ image:
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Tesis
+  name: Tesis en Cybertesis
+  url: http://cybertesis.uni.edu.pe/handle/uni/19695
+- icon: file-pdf
+  icon_pack: fas
+  name: Tesis en Zenodo
   url: https://doi.org/10.5281/zenodo.4271101
 - icon: file-pdf
   icon_pack: fas
