@@ -5,75 +5,73 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 ---
-**Maestro en Ciencias con mención en Física**. Con experiencia en el uso de softwares de simulación Quantum ESPRESSO  y LAMMPS. Aplicación del lenguaje de programación Python para pre y post-procesamiento de datos.
+**Master of Science in Physics** from National University of Engineering. I'm a researcher in materials science. I research mechanical properties and electronic structure with density functional theory and molecular dynamics techniques. I use the softwares LAMMPS and Quantum ESPRESSO, I also use the Python language for data processing from computational simulations.
 
-## FORMACIÓN ACADÉMICA
+## Education
 
-- **MAESTRO EN CIENCIAS - UNIVERSIDAD NACIONAL DE INGENIERÍA - 2017~2019**\
-  Grado de Maestro en Ciencias con mención en Física
-- **BACHILLER - UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS - 2009~2015**\
-  Bachiller en Física
+- **Master of Science - National University of Engineering - 2017~2019**\
+  Master of Science in Physics
+- **Bachelor of Science - Universidad Nacional Mayor de San Marcos - 2009~2015**\
+  Bachelor of Science in Physics
   
-## FORMACIÓN EN SOFTWARE
+## Software education
 
-- **PROGRAMACIÓN ESTADÍSTICA CON R - ESCUELA NACIONAL DE ESTADÍSTICA E INFORMÁTICA - NOVIEMBRE DE 2019 ~ DICIEMBRE DE 2019**
-- **MACHINE LEARNING CON PYTHON - UNIVERSIDAD PERUANA CAYETANO HEREDIA - ESCUELA DE POSGRADO - ABRIL DE 2020 ~ MAYO DE 2020**
+- **Statistical programming with R - National Institute of Statistics and Informatics - November 2019 ~ December 2019**
+- **Machine learning with Python - Universidad Peruana Cayetano Heredia - Graduate school - April 2020 ~ MAY 2020**
   
-## PROYECTOS DE INVESTIGACIÓN
+## Research projects
 
-- **TESISTA - TESIS DE MAESTRIA - 2017~2019**\
-  **Tema:** [Cálculos de estructura electrónica en perovskitas BiFeO3 y YCrO3](https://doi.org/10.5281/zenodo.4271101).
-- **INVESTIGADOR COLABORADOR - 2016**\
-  **Tema:** Estudio teórico del efecto del recubrimiento y funcionalización de nanopartículas magnéticas y nanosistemas afines mediante dinámica molecular.
-- **INVESTIGADOR COLABORADOR - 2015**\
-  **Tema:** Propiedades térmicas y estructurales de las nanopartículas de Fe, Al y nanoaleaciones de Fe-Al.
-- **INVESTIGADOR COLABORADOR - 2014**\
-  **Tema:** Influencia de los defectos preexistentes en las propiedades mecánicas de los nanohilos de cobre.
+- **Master's student - Master's thesis - 2017~2019**\
+  **Title:** [Electronic structure calculations in BiFeO3 and YCrO3 perovskites](http://cybertesis.uni.edu.pe/handle/uni/19695).
+- **Collaborating researcher - 2016**\
+  **Title:** Theoretical study of the effect of coating and functionalization of magnetic nanoparticles and related nanosystems by molecular dynamics.
+- **Collaborating researcher - 2015**\
+  **Title:** Thermal and structural properties of Fe, Al nanoparticles and Fe-Al nanoalloys.
+- **Collaborating researcher - 2014**\
+  **Title:** Influence of pre-existing defects on the mechanical properties of copper nanowires.
   
-## DISTINCIONES
+## Achievements
 
-- Medalla de bronce en el concurso de videos de divulgación en nanociencias dentro de **Nanoandes Perú 2020**
-- Tesis de Maestría aprobada con distinción.
-- Obtuve la beca para estudios de posgrado otorgada por el "Fondo Nacional de Desarrollo Científico, Tecnológico y de Innovación Tecnológica - FONDECYT".
-- Quinto Superior en la Carrera Profesional de Física - Universidad Nacional Mayor de San Marcos.
+- Bronze medal in the **Nanoandes Perú 2020** nanoscience video contest.
+- Master's Scholarship CONCYTEC - FONDECYT.
 
-## PRESENTACIONES EN SIMPOSIOS
+## Symposium presentations
 
-- **EXPOSITOR - XXVII SIMPOSIO PERUANO DE FÍSICA - OCTUBRE 2018**\
-  **TEMA:** [Estructura electrónica de ferrita de Bismuto en diferentes fases     cristalinas](https://doi.org/10.5281/zenodo.4274410).\
-  **Modalidad:** Poster
-- **EXPOSITOR - XVI ENCUENTRO DE FÍSICA - AGOSTO 2017**\
-  **Tema:** [Quantum Computing: The Grover's Algorithm](https://doi.org/10.5281/zenodo.4274110).\
-  **Modalidad:** Poster
-- **EXPOSITOR - XXV SIMPOSIO PERUANO DE FÍSICA - OCTUBRE 2016**\
-  **Tema:** [Simulación atomística de los efectos de recubrimiento de las nanopartículas de Hierro con Carbono](https://doi.org/10.5281/zenodo.4273255).\
-  **Modalidad:** Poster
-- **EXPOSITOR - XXIV SIMPOSIO PERUANO DE FÍSICA - OCTUBRE 2015**\
-  **Tema:** [Transición de fase en nanoaleaciones de Hierro-Aluminio con estructura core-shell: Estudio con dinámica molecular](https://doi.org/10.5281/zenodo.4275061).\
-  **Modalidad:** Poster
+- **EXPOSITOR - XXVII Peruvian Physics Symposium - October 2018**\
+  **Title:** [Electronic structure of bismuth ferrite in different crystalline phases](https://doi.org/10.5281/zenodo.4274410).\
+  **Modality:** Poster
+- **EXPOSITOR - XVI Meeting of Physics - August 2017**\
+  **Title:** [Quantum Computing: The Grover's Algorithm](https://doi.org/10.5281/zenodo.4274110).\
+  **Modality:** Poster
+- **EXPOSITOR - XXV Peruvian Physics Symposium - October 2016**\
+  **Title:** [Atomistic simulation of the effects of coating iron nanoparticles with carbon](https://doi.org/10.5281/zenodo.4273255).\
+  **Modality:** Poster
+- **EXPOSITOR - XXIV Peruvian Physics Symposium - October 2015**\
+  **Title:** [Phase transition in iron-aluminum nanoalloys with core-shell structure: molecular dynamics study](https://doi.org/10.5281/zenodo.4275061).\
+  **Modality:** Poster
   
-## CONOCIMIENTO DE SOFTWARE
+## Software
 
-- **Lenguajes de Programación**
+- **Programming languages**
   * Python {{< icon name="python" pack="fab" >}}
   * R {{< icon name="r-project" pack="fab" >}}
   * Fortran
-- **Software Científicos**
+- **Scientific software**
   * Quantum ESPRESSO
   * LAMMPS
   * Ovito
   * Vesta
   * XCrySDen
-- **Procesadores de texto avanzado**
+- **Word processors**
   * Latex
-- **Sistemas Operativos**
+- **Operating systems**
   * Ubuntu {{< icon name="ubuntu" pack="fab" >}}
   * Fedora {{< icon name="fedora" pack="fab" >}}
   * openSUSE {{< icon name="suse" pack="fab" >}}
 
-## CONOCIMIENTO DE IDIOMAS
+## Languages
 
-- **IDIOMA INGLES**\
-  Dominio Técnica
-- **IDIOMA ESPAÑOL**\
-  Lengua Natal
+- **English**\
+  Intermediate level
+- **Spanish**\
+  Native language

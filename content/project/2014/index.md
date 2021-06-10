@@ -1,8 +1,8 @@
 ---
-title: Influencia de los defectos preexistentes en las propiedades mecánicas de los nanohilos de cobre  
+title: Influence of pre-existing defects on the mechanical properties of copper nanowires 
 summary:
 tags:
-- Dinánica molecular
+- Molecular dynamics
 date: "2014-01-07"
 
 # Optional external URL for project (replaces project detail page).
@@ -29,3 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+I collaborated in the study of the mechanical properties of copper nanowires with pre-existing defects and without pre-existing defects. I used the molecular dynamics method implemented in LAMMPS software. I also did the data analysis of the simulations with Python language and Ovito software.

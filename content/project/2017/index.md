@@ -1,8 +1,8 @@
 ---
-title: Cálculos de estructura electrónica en perovskitas BiFeO3 y YCrO3  
+title: Electronic structure calculations in BiFeO3 and YCrO3 perovskites
 summary:
 tags:
-- Teoría del funcional de densidad
+- Density functional theory
 date: "2017-04-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -15,15 +15,15 @@ image:
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Tesis en Cybertesis
+  name: Thesis in Cybertesis
   url: http://cybertesis.uni.edu.pe/handle/uni/19695
 - icon: file-pdf
   icon_pack: fas
-  name: Tesis en Zenodo
+  name: Thesis in Zenodo
   url: https://doi.org/10.5281/zenodo.4271101
 - icon: file-pdf
   icon_pack: fas
-  name: Diapositivas
+  name: Slides
   url: https://doi.org/10.5281/zenodo.4273182
 - icon: file-pdf
   icon_pack: fas
@@ -41,4 +41,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Se estudia la estructura electrónica de las perovskitas BiFeO3 y YCrO3. Para el BiFeO3 se utilizaron los arreglos antiferromagnéticos tipo A y G. Y para el YCrO3 los arreglos antiferromagnéticos tipo A, C y G. Se utilizó la teoría del funcional de densidad implementada en el paquete Quantum ESPRESSO y pseudopotenciales ultrasuaves junto a la aproximación de densidad local considerando el parámetro de Hubbard. 
+I investigated the electronic structure of Bismuth Ferrite (BiFeO3) and Yttrium Chromite (YCrO3) perovskites.For BiFeO3 the antiferromagnetic arrays type A and G were used. And for YCrO3 the antiferromagnetic arrays type A, C and G were used. I used ultra-smooth pseudopotentials together with the local density approximation considering the Hubbard parameter. I used the density functional theory (DFT) implemented in the Quantum ESPRESSO software.

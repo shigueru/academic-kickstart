@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Compilación e instalación de Quantum ESPRESSO con el compilador de GNU"
-subtitle: "GNU/Linux Ubuntu y sus derivadas"
-summary: "Instalación de Quantum ESPRESSO en un entorno linux utilizando el compilador de GNU"
+title: "Compiling and installing Quantum ESPRESSO with the GNU compiler"
+subtitle: "Linux/Ubuntu and derivative distributions"
+summary: "Installation of Quantum ESPRESSO in a linux environment using the GNU compiler."
 authors: []
-tags: [Linux, Installation, QuantumESPRESSO, "Density Functional Theory"]
+tags: [Linux, Installation, QuantumESPRESSO, "Density Functional Theory", SpanishS]
 categories: [Software]
 date: 2020-09-01T22:03:57-05:00
 lastmod: 2020-09-01T22:03:57-05:00
@@ -15,15 +15,15 @@ draft: false
 links:
 - icon: zenodo
   icon_pack: ai
-  name: Versión en PDF en Zenodo
+  name: PDF in Zenodo
   url: https://doi.org/10.5281/zenodo.4301191
 - icon: medium
   icon_pack: fab
-  name: Originalmente publicado en Medium
+  name: Published on Medium
   url: https://medium.com/@nagatashigueru/compilaci%C3%B3n-e-instalaci%C3%B3n-de-quantum-espresso-con-el-compilador-de-gnu-31c3eeebaf2a
 - icon: linkedin
   icon_pack: fab
-  name: Originalmente publicado en Linkedin
+  name: Published on Linkedin
   url: https://www.linkedin.com/pulse/compilaci%C3%B3n-e-instalaci%C3%B3n-de-quantum-espresso-con-el-nagata-tejada-1f?articleId=6706776692641275904#comments-6706776692641275904&trk=public_profile_article_view
 
 # Featured image
@@ -42,4 +42,4 @@ image:
 projects: []
 ---
 
-Este post se encuentra publicado en Linkedin y en Medium. Los enlaces se encuentran en los botones de arriba.
+This post is published on Linkedin and Medium. The links can be found in the buttons above.

@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 #title: Contact
-title: Contacto
+title: Contact
 subtitle:
 
 content:

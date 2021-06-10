@@ -1,8 +1,8 @@
 ---
-title: Estudio teórico del efecto del recubrimiento y funcionalización de nanopartículas magnéticas y nanosistemas afines mediante dinámica molecular  
+title: Theoretical study of the effect of coating and functionalization of magnetic nanoparticles and related nanosystems by molecular dynamics
 summary: 
 tags:
-- Dinánica molecular
+- Molecular dynamics
 date: "2016-01-07"
 
 # Optional external URL for project (replaces project detail page).
@@ -33,4 +33,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Se investigó las variaciones de las propiedades energéticas, magnéticas, estructurales que ocurren en las nanopartículas en base a hierro como resultado del recubrimiento y funcionalización con elementos no metálicos como oxigeno, carbono e hidrogeno, y otros grupos funcionales, con la finalidad de evaluar su posible aplicación en la remoción de metales pesados de medios contaminados. 
+I collaborated in the study of magnetic nanoparticles of iron-carbon with core-shell structure. I investigated the variations of the energetic, magnetic and structural properties of iron nanoparticles coated with non-metallic elements such as oxygen, carbon, hydrogen and other functional groups. I used the molecular dynamics method implemented in the LAMMPS software. I also did the data analysis of the simulations with Python language and Ovito software.

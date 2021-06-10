@@ -1,8 +1,8 @@
 ---
-title: Propiedades térmicas y estructurales de las nanopartículas de Fe, Al y nanoaleaciones de Fe-Al  
+title: Thermal and structural properties of iron (Fe) and aluminum (Al) nanoparticles and their nanoalloys (Fe-Al)
 summary:
 tags:
-- Dinánica molecular
+- Molecular dynamics
 date: "2015-01-07"
 
 # Optional external URL for project (replaces project detail page).
@@ -33,4 +33,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Se investiga mediante la simulación atomística con el método de dinámica molecular y potencial de interacción tipo EAM, las propiedades estructurales y térmicas de las nanopartículas monometálicas de aluminio y hierro, así como las nanoaleaciones de configuración core-shell de aluminio-hierro de diferentes tamaños y composiciones durante los procesos de calentamiento y recocido a diferentes temperaturas.
+I collaborated in the study of thermal and structural properties of iron nanoparticles, aluminum nanoparticles and their nanoalloys. The nanoalloys had core-shell structure. I investigated different compositions and sizes during the heating and annealing processes at different temperatures. I used the molecular dynamics method implemented in LAMMPS software. I also did the data analysis of the simulations with Python language and Ovito software.

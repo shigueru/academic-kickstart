@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Proyectos"
+title = "Projects"
 subtitle = ""
 
 [content]
@@ -26,12 +26,12 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Dinámica molecular"
-     tag = "Dinánica molecular"
+     name = "Molecular dynamics"
+     tag = "Molecular dynamics"
   
    [[content.filter_button]]
-     name = "Teoría del funcional de densidad"
-     tag = "Teoría del funcional de densidad"
+     name = "Density functional theory"
+     tag = "Density functional theory"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

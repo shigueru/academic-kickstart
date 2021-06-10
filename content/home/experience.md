@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-#title = "Experience"
-title = "Experiencia"
+title = "Experience"
+#title = "Experiencia"
 subtitle = ""
 
 # Date format for experience
@@ -19,101 +19,99 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Investigador - Colaborador"
-  company = "Facultad de Ciencias Físicas - Universidad Nacional Mayor de San Marcos"
+  title = "Collaborating researcher"
+  company = "Faculty of Physical Sciences - Universidad Nacional Mayor de San Marcos"
   company_url = "https://fisica.unmsm.edu.pe/"
   location = "Perú"
   date_start = "2014-01-01"
   date_end = "2014-12-31"
   description = """
-  Proyecto: Influencia de los defectos preexistentes en las propiedades mecánicas de los nanohilos de cobre.
+  Project: Influence of pre-existing defects on the mechanical properties of copper nanowires.
   
-  Mis responsibilidades incluyeron:
+  My responsibilities included:
   
-  * Creación de estructura atómica de nanohilos
-  * Simulación en LAMMPS
-  * Analisis de datos
-  * Creación de scripts en python
-  * Redacción de informes
+  * Creation of the atomic structure of the nanowires for the simulations.
+  * Simulation with LAMMPS.
+  * Data analysis.
+  * Writing Python scripts.
+  * Report writing.
   """
   
 [[experience]]
-  title = "Investigador - Colaborador"
-  company = "Facultad de Ciencias Físicas - Universidad Nacional Mayor de San Marcos"
+  title = "Collaborating researcher"
+  company = "Faculty of Physical Sciences - Universidad Nacional Mayor de San Marcos"
   company_url = "https://fisica.unmsm.edu.pe/"
   location = "Perú"
   date_start = "2015-01-01"
   date_end = "2015-12-31"
   description = """
-  Proyecto: Propiedades térmicas y estructurales de las nanopartículas de Fe, Al y nanoaleaciones de Fe-Al.
+  Project: Thermal and structural properties of Fe, Al nanoparticles and Fe-Al nanoalloys.
   
-  Mis responsibilidades incluyeron:
+  My responsibilities included:
   
-  * Creación de estructura atómica de nanopartículas
-  * Simulación en LAMMPS
-  * Analisis de datos
-  * Creación de scripts en python
-  * Redacción de informes
+  * Creation of the atomic structure of the nanoparticles for the simulations.
+  * Simulación with LAMMPS.
+  * Data analysis.
+  * Writing Python scripts.
+  * Report writing.
   """
   
 [[experience]]
-  title = "Investigador - Colaborador"
-  company = "Facultad de Ciencias Físicas - Universidad Nacional Mayor de San Marcos"
+  title = "Collaborating researcher"
+  company = "Faculty of Physical Sciences - Universidad Nacional Mayor de San Marcos"
   company_url = "https://fisica.unmsm.edu.pe/"
   location = "Perú"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """
-  Proyecto: Estudio teórico del efecto del recubrimiento y funcionalización de nanopartículas magnéticas y nanosistemas afines mediante dinámica molecular.
+  Project: Theoretical study of the effect of coating and functionalization of magnetic nanoparticles and related nanosystems by molecular dynamics.
   
-  Mis responsibilidades incluyeron:
+  My responsibilities included:
   
-  * Creación de estructura atómica de nanopartículas
-  * Simulación en LAMMPS
-  * Analisis de datos
-  * Creación de scripts en python
-  * Redacción de informes
+  * Creation of the atomic structure of the nanoparticles for the simulations.
+  * Simulación with LAMMPS.
+  * Data analysis.
+  * Writing Python scripts.
+  * Report writing.
   """
 
 [[experience]]
-  title = "Tesista - Investigador"
-  company = "Facultad de Ciencias - Universidad Nacional de Ingeniería"
+  title = "Master's Scholarship - Researcher"
+  company = "Faculty of Sciences - National University of Engineering"
   company_url = "https://fc.uni.edu.pe/fc/"
   location = "Perú"
   date_start = "2017-04-01"
   date_end = "2019-09-15"
   description = """
-  Proyecto: Cálculos de Estructura Electrónica en Perovskitas BiFeO3 y YCrO3
+  Project: Electronic structure calculations in BiFeO3 and YCrO3 perovskites
   
-  Investigación de las propiedades electrónicas de las perovskitas
-  Ferrita de Bismuto y Cromita de Itrio.
+  Investigation of the electronic properties of bismuth ferrite and yttrium chromite perovskites.
   
-  Mis responsibilidades incluyeron:
+  My responsibilities included:
   
-  * Diseño de experimentos
-  * Simulación en QuantumESPRESSO
-  * Analisis de datos
-  * Creación de scripts en python
-  * Redacción de informes
-  * Exposiciones en conferencias
+  * Design of experiments.
+  * Simulación with Quantum ESPRESSO.
+  * Data analysis.
+  * Writing Python scripts.
+  * Report writing.
+  * Conference presentations.
   """
 
 [[experience]]
-  title = "Practicante Pre-profesional"
+  title = "Pre-professional intern"
   company = "Laboratorio de Física de la Atmósfera y del Océano - Universidad Nacional Mayor de San Marcos"
   company_url = ""
   location = "Perú"
   date_start = "2014-09-25"
   date_end = "2014-12-20"
   description = """
-  Entrenamiento en el uso del software ENVI y lenguaje IDL para 
-  el análisis de imágenes satelitales.
+  Training in the use of ENVI software and IDL language for satellite image analysis.
   
-  Mis responsibilidades incluyeron:
+  My responsibilities included:
   
-  * Analisis de datos atmosfericos
-  * Creación de scripts en IDL
-  * Redacción de informes
+  * Atmospheric data analysis.
+  * Writing IDL scripts.
+  * Report writing.
   """
 
 +++

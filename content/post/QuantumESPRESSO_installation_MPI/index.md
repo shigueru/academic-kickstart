@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Compilación e instalación de Quantum ESPRESSO con MPI"
-subtitle: "GNU/Linux Debian y sus derivadas"
-summary: "Instalación de Quantum ESPRESSO en un entorno linux utilizando OpenMPI y Gfortran"
+title: "Compiling and installing Quantum ESPRESSO with MPI"
+subtitle: "Linux/Ubuntu and derivative distributions"
+summary: "Installation of Quantum ESPRESSO in a linux environment using OpenMPI and Gfortran"
 authors: []
-tags: [Linux, Installation, QuantumESPRESSO, "Density Functional Theory"]
+tags: [Linux, Installation, QuantumESPRESSO, "Density Functional Theory", Spanish]
 categories: [Software]
 date: 2021-02-18
 lastmod: 2021-02-18
@@ -15,19 +15,19 @@ draft: false
 links:
 - icon: zenodo
   icon_pack: ai
-  name: Versión en PDF en Zenodo
+  name: PDF in Zenodo
   url: https://doi.org/10.5281/zenodo.4549850
 - icon: medium
   icon_pack: fab
-  name: Originalmente publicado en Medium
+  name: Published on Medium
   url: https://shiguerunagata.medium.com/compilaci%C3%B3n-de-quantum-espresso-con-mpi-61f118bfca12
 - icon: linkedin
   icon_pack: fab
-  name: Originalmente publicado en Linkedin
+  name: Published on Linkedin
   url: https://www.linkedin.com/pulse/compilaci%25C3%25B3n-de-quantum-espresso-con-mpi-shigueru-emilio-nagata-tejada
 - icon: neos
   icon_pack: fab
-  name: Originalmente publicado en Notion
+  name: Published on Notion
   url: https://www.notion.so/Compilaci-n-de-Quantum-ESPRESSO-con-MPI-b690156a025a47848a05f381b72422d4
 
 # Featured image
@@ -46,4 +46,4 @@ image:
 projects: []
 ---
 
-Este post se encuentra publicado en Linkedin, en Medium, en Zenodo y en Notion. Los enlaces se encuentran en los botones de arriba.
+This post is published on Linkedin, Medium and Notion. The links can be found in the buttons above.

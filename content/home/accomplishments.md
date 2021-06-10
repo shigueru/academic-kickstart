@@ -5,8 +5,9 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-#title = "Accomplish&shyments"
-title = "Cursos"
+title = "Achievements"
+#title = "Accomplishments"
+#title = "Cursos"
 subtitle = ""
 
 # Date format
@@ -30,15 +31,15 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Universidad Peruana Cayetano Heredia"
   organization_url = "https://www.cayetano.edu.pe"
-  title = "Machine Learning con Python"
+  title = "Machine Learning with Python"
   url = "http://www.posgradoupch.pe/programa/machine-learning-con-python/"
   date_start = "2020-04-07"
   date_end = "2020-05-27"
 
 [[item]]
-  organization = "Instituto Nacional de Estadística e Informática"
+  organization = "National Institute of Statistics and Informatics"
   organization_url = "https://www.inei.gob.pe/enei/"
-  title = "Programación Estadística con R"
+  title = "Statistical Programming with R"
   date_start = "2019-11-16"
   date_end = "2019-12-08"
 

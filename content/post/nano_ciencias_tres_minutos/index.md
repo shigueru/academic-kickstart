@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nano ciencias en tres minutos"
-subtitle: "Concurso de Red nanoandes"
-summary: "Concurso de divulgación de proyectos de investigación en nano ciencias"
+title: "Nano science in three minutes"
+subtitle: "Red nanoandes contest"
+summary: "Contest for the dissemination of research projects in nanosciences"
 authors: []
-tags: [concytec, concurso]
+tags: [concytec, contest, Spanish]
 categories: [distinciones]
 date: 2020-12-14
 lastmod: 2020-12-14
@@ -15,7 +15,7 @@ draft: false
 links:
 - icon: linkedin
   icon_pack: fab
-  name: Post en Linkedin
+  name: Published on Linkedin
   url: https://www.linkedin.com/posts/shiguerunagata_c%C3%A1lculos-de-estructura-electr%C3%B3nica-en-perovskitas-activity-6744105400930467840-Q4m7
 
 # Featured image
@@ -34,27 +34,27 @@ image:
 projects: []
 ---
 
-La organización Red Nanoandes organizó un concurso con el objetivo de divulgar proyectos de investigación relacionados a las nano ciencias en la región Latinoamérica. Para ello se solicitó a los participantes preparar videos en un formato divulgativo presentando la investigación que llevaron a cabo durante uno de los siguientes periodos:
+The organization Red Nanoandes organized a contest with the objective of disseminating research projects related to nanosciences in the Latin American region. To this end, participants were asked to prepare videos in an informative format presenting the research they carried out during one of the following periods:
 
-- Pregrado
-- Maestría
-- Doctorado
-- Post-doctorado
+- Undergraduate
+- Master
+- Doctorate
+- Post-doc
 
-Yo, prepare un video sobre mi investigación de maestría titulada **Cálculos de estructura electrónica en perovskitas BiFeO3 y YCrO3**. Pueden hallar más detalles en el siguiente enlace: [Link](https://shiguerunagata.com/project/2017/)
+I prepared a video about my master's research **Electronic structure calculations in BiFeO3 and YCrO3 perovskites**. You can find more details in the following link: [Link](https://shiguerunagata.com/project/2017/)
 
-Luego de que los videos fueran sometidos a un panel de jurados internacionales, se determinó que mi video había ocupado el tercer lugar otorgándoseme una medalla de bronce. Luego de la premiación de parte de la Red nanoandes, mi video y los otros ganadores fueron presentados en la primera edición virtual de la feria **Perú con Ciencia** organizada por el **Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica** (CONCYTEC). Dentro de la feria mi video se presento en la sección **Nano ciencias en 3 minutos** el día lunes 7 de diciembre de 2020 a las 8 de la noche. Pueden ver el video de la presentación en la feria a continuación.
+The videos were judged by an international jury. My video came in third place and I obtained the bronze medal. The winning videos were presented in the first virtual edition of the fair **Perú con Ciencia** organized by the **Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica** (CONCYTEC). Within the fair my video was presented in the section **Nano science in 3 minutes** on Monday December 7, 2020 at 8 pm. You can see the video of the presentation at the fair below.
 
 {{< youtube yeoFOg7EsaU >}}
 
-También pueden hallar el video por separado en una mejor calidad y con subtítulos a continuación.
+You can also find the video separately in better quality and with subtitles below.
 
 {{< youtube sAuhfCWCgLk >}}
 
-Finalmente, pueden hallar los recursos audiovisuales vistos en el video en los siguientes enlaces:
+Finally, you can find the audiovisual resources seen in the video in the following links:
 
-[Diapositivas](https://doi.org/10.5281/zenodo.4316086)
+[Slides](https://doi.org/10.5281/zenodo.4316086)
 
-[Imágenes](https://doi.org/10.5281/zenodo.4316096)
+[Images](https://doi.org/10.5281/zenodo.4316096)
 
-[Video para descarga sin subtítulos](https://doi.org/10.5281/zenodo.4313893)
+[Video for download without subtitles](https://doi.org/10.5281/zenodo.4313893)

@@ -15,18 +15,18 @@ superuser: true
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
-bio: Además de mi linea de investigación principal en ciencia de materiales computacional tengo interes en el uso de técnicas de machine learning en los campos de ciencia de materiales y geoestadística.
+bio: MSc. Physics from National University of Engineering. I'm a researcher in materials science. I research mechanical properties and electronic structure with density functional theory and molecular dynamics techniques. I use the softwares LAMMPS and Quantum ESPRESSO, I also use the Python language for data processing from computational simulations.
 
 interests:
-- Inteligencia Artificial
-- Ciencia de Materiales Computacional
+- Artificial Intelligence
+- Computational Materials Science
 
 education:
   courses:
-  - course: Maestría en Ciencias con mención en Física
-    institution: Universidad Nacional de Ingeniería
+  - course: Master of Science in Physics
+    institution: National University of Engineering
     year: 2019
-  - course: Bachiller en Física
+  - course: Bachelor of Science in Physics
     institution: Universidad Nacional Mayor de San Marcos
     year: 2015
     
@@ -74,9 +74,6 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
+I'm MSc. Physics from National University of Engineering. I'm a researcher in materials science. I research mechanical properties and electronic structure with density functional theory and molecular dynamics techniques. I use the softwares LAMMPS and Quantum ESPRESSO, I also use the Python language for data processing from computational simulations.
 
-Soy maestro en Ciencias con mención en Física por la Universidad Nacional de Ingeniería. Investigador en ciencia de materiales en el área de métodos computacionales para modelamiento de nanomateriales.
-
-Mi pasion por la programacion y la simulación de procesos físicos me ha permitido colaborar en varios proyectos de investigación en prestigiosas universidades como la Universidad Nacional de Ingeniería y la Universidad Nacional Mayor de San Marcos. Donde he llevado a cabo simulaciones con los softwares de simulacion LAMMPS Y QuantumESPRESSO.
-
-Además de mi linea de investigación principal en ciencia de materiales computacional tengo interes en el uso de técnicas de machine learning.
+I am also interested in the use of machine learning techniques in materials science.
